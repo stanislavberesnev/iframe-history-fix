@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/stanislavberesnev/iframe-history-fix.git"
   },
-  "author": "Stanislav Beresnev",
+  "author": "Alexander Opekunov <aopekunov@griddynamics.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/stanislavberesnev/iframe-history-fix/issues"
