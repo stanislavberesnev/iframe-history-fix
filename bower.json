@@ -1,0 +1,21 @@
+{
+  "name": "iframe-history-fix",
+  "version": "1.0.0",
+  "homepage": "https://github.com/stanislavberesnev/iframe-history-fix",
+  "authors": [
+    "Alexander Opekunov <aopekunov@griddynamics.com>"
+  ],
+  "description": "iFrame location workaround",
+  "dependencies": {
+    "angular": "1.2.15"
+  },
+  "main": "iframe-history-fix.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
