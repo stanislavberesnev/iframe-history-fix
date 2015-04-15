@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "homepage": "https://github.com/stanislavberesnev/iframe-history-fix",
   "authors": [
-    "Alexander Opekunov <aopekunov@griddynamics.com>"
+    "Stanislav Beresnev <sberesnev@griddynamics.com>"
   ],
   "description": "iFrame location workaround",
   "dependencies": {
