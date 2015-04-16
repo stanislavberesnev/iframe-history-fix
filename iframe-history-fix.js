@@ -4,7 +4,7 @@ angular.module('iframeHistoryFix', [])
             restrict: 'E',
             link: function(scope, element, attrs) {
                 element.on('click', function(e) {
-                    if (attrs.href) {
+                    if (attrs.href && (!attrs.target || attrs.target === "_self")) {
                         e.preventDefault();
                         $timeout(function() {
                             window.location.replace(attrs.href);

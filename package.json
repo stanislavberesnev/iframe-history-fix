@@ -1,6 +1,6 @@
 {
   "name": "iframe-history-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iFrame location workaround",
   "main": "iframe-history-fix.js",
   "scripts": {
