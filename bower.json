@@ -7,7 +7,7 @@
   ],
   "description": "iFrame location workaround",
   "dependencies": {
-    "angular": "1.2.15"
+    "angular": "~1.2.15"
   },
   "main": "iframe-history-fix.js",
   "license": "MIT",
